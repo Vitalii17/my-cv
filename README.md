@@ -43,10 +43,16 @@ Electronic design engineer based in Kyiv, Ukraine
 - Creator of PCB-developers community [@PCB Chat](https://t.me/pcb_chat)
 - Creator of open-source components [library](https://github.com/Vitalii17/SVLib)
 - Developer of applications for old Symbian-based smartphones [Just for fun:)](https://applist.schumi1331.de/publisher/Vitalii%20Shunkov)
-  
+
+## Languages
+- English: Intermediate(B1)
+- Russian: Native
+- Ukrainian: Native
+
 ## Education
 - 2012 - 2018: National Technical University of Ukraine “Kyiv Polytechnic Institute”, [Radio Engineering Department](https://rtf.kpi.ua/), Master's Degree in radio engineering.
 - 2021: English learning in [Study Academy](https://studyacademy.ua/)
+
 
 
 
