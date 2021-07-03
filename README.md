@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+## Vitalii Shunkov
 
-You can use the [editor on GitHub](https://github.com/Vitalii17/my-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Electronic design engineer based in Kyiv, Ukraine
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](vtlshnkv@gmail.com)/[LinkedIn](https://www.linkedin.com/in/vitalii-shunkov/)/[GitHub](https://github.com/vitalii17)/[Facebook](https://www.facebook.com/vitalii.shunkov)/[Telegram](https://t.me/iilativ)
 
-### Markdown
+## Competences
+- PCB development: multi-layer boards, low-power, RF, circuit design
+- 3D design: plastic enclosures, optimized for ijection molding, 3D-printing and CNC-machinig
+- Programming languages: Python, C, Qt/QML
+- Tools: Altium, Solidworks, CST Studio, LTSpice, Git, MathCAD, LabVIEW
+- Additional skills: hand soldering, 3D-printing, CNC-machinig, Pick and Place machine operating
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Technical Experience
 
-```markdown
-Syntax highlighted code block
+### 01.2018 - present days: [Mobile Soft LLC](http://mobilesoft.com.ua/) (Hardware development company) | Electronic Design Engineer 
+- Development of printed circuit boards
+- 3D design of plastic enclosures
+- Supply chain management
+- Management of manufacturing process
+- Development of test firmwares in C language
+- Projects:
+  - All hardware for [i-bee - smart apiary](https://www.i-bee.net/)
+  - GPS-tracking devices for [Spider GPS](https://track-me.org/)
+  - Devices for safety monitoring of electric transmission lines for [DTEK](https://dtek.com/)
+  - Ultrasonic wind sensor
 
-# Header 1
-## Header 2
-### Header 3
+### 08.2016 - 05.2017: [LDI Lab](http://ldi.ua) (LED lighting manufacturer) | PCB Design Engineer
+- Development of printed circuit boards
+- Development and maintainig of components library 
+- Projects:
+  - LED drivers
+  - LED lamps
+  - Packstation stack controller
 
-- Bulleted
-- List
+### 01.2015 - 05.2015: [Укртрансзв’язок](http://utz.com.ua/) (Manufacturer of industrial safety systems) | Electronic Design Engineer
+- Development of printed circuit boards
+- Reverse-engineering
+- Projects:
+  - Roof safety monitoring system for industrial buildings
 
-1. Numbered
-2. List
+### On the side
+- Creator of PCB-developers community [@PCB Chat](https://t.me/pcb_chat)
+- Creator of open-source components [library](https://github.com/Vitalii17/SVLib)
+- Developer of applications for old Symbian-based smartphones [Just for fun:)](https://applist.schumi1331.de/publisher/Vitalii%20Shunkov)
+  
+## Education
+- 2012 - 2018: National Technical University of Ukraine “Kyiv Polytechnic Institute”, [Radio Engineering Department](https://rtf.kpi.ua/), Master's Degree in radio engineering.
+- 2021: English learning in [Study Academy](https://studyacademy.ua/)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Vitalii17/my-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
