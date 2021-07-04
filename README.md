@@ -2,7 +2,7 @@
 
 Electronic design engineer based in Kyiv, Ukraine
 
-[Email](vtlshnkv@gmail.com)/[LinkedIn](https://www.linkedin.com/in/vitalii-shunkov/)/[GitHub](https://github.com/vitalii17)/[Facebook](https://www.facebook.com/vitalii.shunkov)/[Telegram](https://t.me/iilativ)  
+[Email](mailto:vtlshnkv@gmail.com)/[LinkedIn](https://www.linkedin.com/in/vitalii-shunkov/)/[GitHub](https://github.com/vitalii17)/[Facebook](https://www.facebook.com/vitalii.shunkov)/[Telegram](https://t.me/iilativ)  
 [Link to PDF verion](https://raw.githubusercontent.com/vitalii17/my-cv/gh-pages/my-cv.pdf)
 
 ## Competences
