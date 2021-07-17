@@ -8,9 +8,8 @@ Electronic design engineer based in Kyiv, Ukraine
 ## Competences
 - PCB development: multi-layer boards, low-power, RF, circuit design
 - 3D design: plastic enclosures, optimized for ijection molding, 3D-printing and CNC-machinig
-- Programming languages: Python, C, Qt/QML
 - Tools: Altium, Solidworks, CST Studio, LTSpice, Git, MathCAD, LabVIEW
-- Additional skills: hand soldering, 3D-printing, CNC-machinig, Pick and Place machine operating
+- Additional skills: hand soldering, 3D-printing, CNC-machinig, Pick and Place machine operating, programming languages (Python, C)
 
 ## Technical Experience
 
