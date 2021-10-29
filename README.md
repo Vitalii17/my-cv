@@ -13,7 +13,9 @@ Electronic design engineer based in Kyiv, Ukraine
 
 ## Technical Experience
 
-### 01.2018 - present days: [Mobile Soft LLC](http://mobilesoft.com.ua/) (Hardware development company) | Electronic Design Engineer 
+### 08.2021 - present days: [Ajax Systems](https://ajax.systems/) (Security systems manufacturer) | Electronic Design Engineer
+
+### 01.2018 - 08.2021: [Mobile Soft LLC](http://mobilesoft.com.ua/) (Hardware development company) | Electronic Design Engineer 
 - Development of printed circuit boards
 - 3D design of plastic enclosures
 - Supply chain management
