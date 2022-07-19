@@ -3,7 +3,7 @@
 Electronic design engineer based in Kyiv, Ukraine
 
 [Email](mailto:vtlshnkv@gmail.com)/[LinkedIn](https://www.linkedin.com/in/vitalii-shunkov/)/[GitHub](https://github.com/vitalii17)/[Facebook](https://www.facebook.com/vitalii.shunkov)/[Telegram](https://t.me/iilativ)  
-[Link to PDF verion](https://raw.githubusercontent.com/vitalii17/my-cv/gh-pages/my-cv.pdf)
+[Link to PDF version](https://raw.githubusercontent.com/vitalii17/my-cv/gh-pages/my-cv.pdf)
 
 ## Competences
 - PCB development: multi-layer boards, low-power, RF, circuit design
@@ -13,7 +13,7 @@ Electronic design engineer based in Kyiv, Ukraine
 
 ## Technical Experience
 
-### 08.2021 - present days: [Ajax Systems](https://ajax.systems/) (Security systems manufacturer) | Electronic Design Engineer
+### 08.2021 - present days: [Ajax Systems](https://ajax.systems/) (Security systems manufacturer) | Hardware Engineer
 
 ### 01.2018 - 08.2021: [Mobile Soft LLC](http://mobilesoft.com.ua/) (Hardware development company) | Electronic Design Engineer 
 - Development of printed circuit boards
@@ -27,7 +27,7 @@ Electronic design engineer based in Kyiv, Ukraine
   - Devices for safety monitoring of electric transmission lines for [DTEK](https://dtek.com/)
   - Ultrasonic wind sensor
 
-### 08.2016 - 05.2017: [LDI Lab](http://ldi.ua) (LED lighting manufacturer) | PCB Design Engineer
+### 08.2016 - 05.2017: [LDI Lab](http://ldi.ua) (LED lighting manufacturer) | PCB Engineer
 - Development of printed circuit boards
 - Development and maintainig of components library 
 - Projects:
@@ -35,7 +35,7 @@ Electronic design engineer based in Kyiv, Ukraine
   - LED lamps
   - Packstation stack controller
 
-### 01.2015 - 05.2015: [Укртрансзв’язок](http://utz.com.ua/) (Manufacturer of industrial safety systems) | Electronic Design Engineer
+### 01.2015 - 05.2015: [Укртрансзв’язок](http://utz.com.ua/) (Manufacturer of industrial safety systems) | Junior Electronic Design Engineer
 - Development of printed circuit boards
 - Reverse-engineering
 - Projects:
