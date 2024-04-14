@@ -14,9 +14,16 @@ Electronic design engineer based in Kyiv, Ukraine
 ## Technical Experience
 
 ### 08.2021 - present days: [Ajax Systems](https://ajax.systems/) (Security systems manufacturer) | Hardware Engineer
+- Development of printed circuit boards
+- Schematic engineering
+- Projects:
+  - [https://ajax.systems/products/fireprotect-2-heat-co/](FireProtect 2)
+  - [https://ajax.systems/products/fireprotect-2-ac-heat-smoke-co-jeweller/](FireProtect 2 AC)
+  - [https://ajax.systems/products/manualcallpoint-red-jeweller/](ManualCallPoint)
 
 ### 01.2018 - 08.2021: [Mobile Soft LLC](http://mobilesoft.com.ua/) (Hardware development company) | Electronic Design Engineer 
 - Development of printed circuit boards
+- Schematic engineering
 - 3D design of plastic enclosures
 - Supply chain management
 - Management of manufacturing process
@@ -27,7 +34,7 @@ Electronic design engineer based in Kyiv, Ukraine
   - Devices for safety monitoring of electric transmission lines for [DTEK](https://dtek.com/)
   - Ultrasonic wind sensor
 
-### 08.2016 - 05.2017: [LDI Lab](http://ldi.ua) (LED lighting manufacturer) | PCB Engineer
+### 08.2016 - 05.2017: [LDI Lab](https://www.facebook.com/LDIlab/) (LED lighting manufacturer) | PCB Engineer
 - Development of printed circuit boards
 - Development and maintainig of components library 
 - Projects:
@@ -42,8 +49,9 @@ Electronic design engineer based in Kyiv, Ukraine
   - Roof safety monitoring system for industrial buildings
 
 ### On the side
+- Volunteer of [https://drukarmy.org.ua/](ДрукАрмія) 
 - Creator of open-source components [library](https://github.com/Vitalii17/SVLib)
-- Developer of applications for old Symbian-based smartphones [Just for fun:)](https://applist.schumi1331.de/publisher/Vitalii%20Shunkov)
+- Developer of applications for old Symbian-based smartphones [Just for fun:)](https://applist.schumi1331.de/content/210)
 
 ## Languages
 - English: Intermediate(B1)
