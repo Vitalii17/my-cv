@@ -49,7 +49,7 @@ Electronic design engineer based in Kyiv, Ukraine
   - Roof safety monitoring system for industrial buildings
 
 ### On the side
-- Volunteer of [https://drukarmy.org.ua/](ДрукАрмія) 
+- Volunteer of [ДрукАрмія](https://drukarmy.org.ua/) 
 - Creator of open-source components [library](https://github.com/Vitalii17/SVLib)
 - Developer of applications for old Symbian-based smartphones [Just for fun:)](https://applist.schumi1331.de/content/210)
 
