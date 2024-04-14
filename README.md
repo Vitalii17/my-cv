@@ -17,9 +17,9 @@ Electronic design engineer based in Kyiv, Ukraine
 - Development of printed circuit boards
 - Schematic engineering
 - Projects:
-  - [https://ajax.systems/products/fireprotect-2-heat-co/](FireProtect 2)
-  - [https://ajax.systems/products/fireprotect-2-ac-heat-smoke-co-jeweller/](FireProtect 2 AC)
-  - [https://ajax.systems/products/manualcallpoint-red-jeweller/](ManualCallPoint)
+  - [FireProtect 2](https://ajax.systems/products/fireprotect-2-heat-co/)
+  - [FireProtect 2 AC](https://ajax.systems/products/fireprotect-2-ac-heat-smoke-co-jeweller/)
+  - [ManualCallPoint](https://ajax.systems/products/manualcallpoint-red-jeweller/)
 
 ### 01.2018 - 08.2021: [Mobile Soft LLC](http://mobilesoft.com.ua/) (Hardware development company) | Electronic Design Engineer 
 - Development of printed circuit boards
